@@ -1,0 +1,14 @@
+{
+  "name": "devs",
+  "version": "1.0.0",
+  "description": "\"this is a rest aoi\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "json-server --watch db.json --port 5050"
+  },
+  "author": "\"shakil",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

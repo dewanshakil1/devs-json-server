@@ -1,0 +1,25 @@
+{
+  "devs": [],
+  "skill": [
+    {
+      "id": 1,
+      "name": "js developer"
+    },
+    {
+      "id": 2,
+      "name": "php developer"
+    },
+    {
+      "id": 3,
+      "name": "java developer"
+    },
+    {
+      "id": 4,
+      "name": "ptthon developer"
+    },
+    {
+      "id": 5,
+      "name": "dgango developer"
+    }
+  ]
+}
